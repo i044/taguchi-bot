@@ -10,7 +10,7 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 
 WELCOME_MESSAGE = (
     "☁️🎉 Hey {member_name}, welcome to **Cloudline**! 🚀✨\n\n"
-    "Taguchi Junnosuke here! 💖 Thank you for joining our cloud-filled community! 🌤️\n"
+    "Taguchi Junnosuke here! 💙 Thank you for joining our cloud-filled community! 🌤️\n"
     "Hang out, share art, chat, and enjoy the vibes 🌈🎶\n"
     "Cloudline is your sky playground — relax and have fun ☁️✨"
 )
